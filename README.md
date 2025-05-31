@@ -1,66 +1,506 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-
-## Date:
-## Reg. No.
-
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
-
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
-
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
-
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+ EXPRIMENT-10
+NAME:S DHARSHAN 
+REG NO:212222040036
+Prompt Pattern Techniques for AI 
+Content Creation
+Introduction to Content Creation with Prompt 
+Patterns
+Content creation with AI language models such as ChatGPT has revolutionized the way 
+reports, articles, case studies, and even creative works are generated. Central to 
+harnessing the full potential of these models is the use of prompt patterns—structured 
+approaches to formulating inputs that guide the AI in producing coherent, relevant, and 
+high-quality content.
+Prompt patterns serve as a blueprint for interaction with language models. They help 
+break down complex queries, prioritize decision-making pathways, or filter out irrelevant 
+information, thereby enhancing the clarity and focus of the generated output.
+Key Prompting Techniques
+• Query Decomposition: Involves breaking a broad or complex question into 
+smaller, manageable sub-questions. This ensures each aspect is addressed 
+thoroughly, improving depth and accuracy.
+• Decision-Making: Guides the AI to weigh alternatives or consider context￾specific factors, which leads to more nuanced and logically sound responses.
+• Semantic Filtering: Focuses the AI on relevant semantic content by filtering out 
+tangential or less relevant data, thereby boosting coherence and thematic 
+consistency.
+These techniques are crucial in producing structured and meaningful documents across 
+various content types. By applying different prompt patterns, content creators can 
+influence not only the quality and coherence but also the underlying structure of the text 
+generated by AI.
+The objective of this document is to demonstrate how varying prompting strategies 
+impact AI-generated content and to provide practical examples and studies that 
+highlight their effectiveness in improving creative and professional writing outputs.
+Key Prompting Techniques for Content Creation
+In the domain of AI-driven content creation, three primary prompting techniques—query 
+decomposition, decision-making, and semantic filtering—play crucial roles in 
+shaping the quality, coherence, and structure of the output. Each method leverages the 
+capabilities of models like ChatGPT uniquely, adapting to the demands of varied 
+content types, including reports, articles, case studies, and creative works.
+Query Decomposition
+Query decomposition involves breaking down a complex or multifaceted prompt into 
+smaller, focused sub-questions or segments. This allows the AI to address each 
+element systematically and generate detailed, thorough responses. Technically, this 
+technique guides the AI to sequentially process components of a prompt, reducing the 
+risk of missing critical information or producing superficial content.
+Example: When generating a case study on renewable energy adoption, a 
+decomposed prompt might separate questions on technology types, economic impact, 
+and policy challenges. This structure leads to in-depth coverage of each topic instead of 
+a broad, unfocused overview.
+Decision-Making
+The decision-making technique asks the AI to evaluate multiple alternatives or weigh 
+contextual information before generating a conclusion or recommendation. This 
+approach simulates analytical reasoning by prompting the model to consider pros, cons, 
+or relevant criteria explicitly.
+Example: For an article comparing electric vehicles vs. hybrid vehicles, the prompt can 
+instruct the model to analyze factors like cost, environmental impact, and performance, 
+leading to a balanced, well-reasoned conclusion rather than a one-sided argument.
+Semantic Filtering
+Semantic filtering focuses the AI's attention on content that is semantically relevant to 
+the core topic by excluding tangential or irrelevant information. The technique can be 
+implemented by specifying context boundaries or guiding the model to prioritize certain 
+themes, effectively boosting coherence and thematic clarity.
+Example: In creative writing, such as a comic book script, semantic filtering ensures 
+that the narrative remains aligned with the central plot and character development, 
+avoiding unrelated tangents that may disrupt reader engagement.
+Comparative Summary of Techniques
+Technique Strengths Limitations
+Effect on 
+Output Quality
+Impact on 
+Coherenc
+e
+Query 
+Decompositio
+n
+• Improves 
+depth and 
+detail
+• Reduces 
+omission of 
+key info
+• Enhances 
+structured 
+flow
+• Requires 
+careful 
+prompt 
+design
+• Can 
+increase 
+completio
+n time
+High –
+produces 
+comprehensiv
+e and accurate 
+content
+High –
+clear 
+sectional 
+structure 
+in text
+Decision￾Making
+• Encourages 
+balanced 
+analysis
+• Supports 
+reasoning 
+and judgment
+• Enables 
+nuanced 
+conclusions
+• Depends 
+on quality 
+of 
+alternative 
+framing
+• May 
+introduce 
+bias if 
+options 
+are 
+incomplet
+e
+Moderate to 
+High –
+enhances 
+critical thinking 
+in content
+Moderate 
+– logical 
+coherence 
+enhanced 
+by 
+reasoning
+Semantic 
+Filtering
+• Improves 
+thematic 
+consistency
+• Reduces 
+irrelevant 
+content
+• Enhances 
+reader focus
+• Risk of 
+over￾filtering 
+useful 
+contextual 
+data
+• May limit 
+creative 
+Moderate –
+boosts 
+relevance and 
+clarity
+High –
+strong 
+thematic 
+cohesion
+Technique Strengths Limitations
+Effect on 
+Output Quality
+Impact on 
+Coherenc
+e
+breadth
+Each prompting technique can be combined or adapted depending on the content 
+objective. For instance, a research report might benefit most from query decomposition 
+and decision-making, while a creative work like a comic book script may prioritize 
+semantic filtering to maintain narrative focus. Understanding these techniques 
+empowers content creators to craft prompts that systematically improve AI-generated 
+text, leading to outputs that are not only informative but also logically structured and 
+engaging.
+Demonstrations: Using Prompt Patterns to 
+Create Various Content Types
+This section showcases practical applications of prompt patterns in producing distinct 
+content types: a report excerpt, an article snippet, a case study summary, and a comic 
+book script outline. Each example illustrates how different prompting techniques—query 
+decomposition, decision-making, and semantic filtering—shape the tone, structure, and 
+coherence of AI-generated outputs. Sample prompts are included to reveal the direct 
+relationship between prompt design and the resulting content.
+1. Report Excerpt: Environmental Impact Analysis
+Prompt (Query Decomposition): "Provide a structured report on the environmental 
+impact of urban transportation. Break down into sections discussing emissions, noise 
+pollution, and mitigation strategies."
+Environmental Impact of Urban Transportation
+1. Emissions
+Urban transportation significantly contributes to air pollution through 
+greenhouse gases and particulate matter. Vehicles powered by fossil fuels 
+emit CO₂ , nitrogen oxides, and other harmful substances. Studies indicate 
+that in large cities, transportation accounts for up to 30% of total CO₂
+emissions.
+2. Noise Pollution
+Traffic noise disrupts urban life quality, causing health issues like stress 
+and sleep disturbances. Noise levels near highways often exceed acceptable 
+standards, necessitating intervention.
+3. Mitigation Strategies
+To reduce environmental harm, cities are implementing electric vehicle 
+incentives, expanding public transit, and designing bike-friendly 
+infrastructure. Policies encouraging carpooling and low-emission zones also 
+demonstrate effectiveness.
+Analysis: Query decomposition guided the model to address each environmental 
+aspect with clarity and completeness. The output is highly structured and formal, ideal 
+for professional reports.
+2. Article Snippet: Comparing Online Learning 
+Platforms
+Prompt (Decision-Making): "Analyze and compare the top three online learning 
+platforms based on content quality, user engagement, and price, then suggest which 
+platform is best suited for self-motivated adult learners."
+When selecting an online learning platform, several factors merit 
+consideration. Platform A excels in content quality, offering expertly 
+curated courses across diverse subjects but comes with a higher subscription 
+fee. Platform B emphasizes user engagement through interactive forums and 
+real-time feedback, enhancing learner motivation. Meanwhile, Platform C 
+provides affordability with a large free course catalog, though the content 
+is less specialized.
+For self-motivated adult learners prioritizing content depth and 
+comprehensive support, Platform A emerges as the optimal choice despite cost 
+considerations. Those valuing community interaction may prefer Platform B, 
+whereas budget-conscious learners could start with Platform C.
+Analysis: The decision-making prompt led to a balanced evaluation weighing pros and 
+cons, producing a nuanced conclusion that aids informed decision-making.
+3. Case Study Summary: Implementing AI in Customer 
+Support
+Prompt (Query Decomposition + Semantic Filtering): "Summarize a case study on 
+implementing AI chatbots in customer support, focusing on implementation challenges, 
+benefits realized, and future recommendations. Maintain a focus on AI technology and 
+customer satisfaction, filtering out unrelated operational details."
+Case Study Summary: AI Chatbots in Customer Support
+Implementation Challenges
+Integrating AI chatbots required aligning legacy systems with new technology, 
+managing data privacy concerns, and training staff to collaborate with AI 
+tools. Some initial customer resistance was observed due to unfamiliarity.
+Benefits Realized
+Post-deployment, customer wait times decreased by 40%, and 24/7 support 
+availability improved satisfaction scores by 25%. AI efficiently handled 
+routine queries, freeing human agents to tackle complex issues.
+Future Recommendations
+To maximize benefits, ongoing refinement of natural language processing 
+models and continuous customer feedback integration are suggested. Strategic 
+expansion to multilingual support will further enhance service reach.
+Analysis: Combining query decomposition with semantic filtering resulted in a focused 
+and coherent summary, emphasizing core AI and customer satisfaction aspects while 
+excluding less relevant operational data.
+4. Comic Book Script Outline: Hero’s Journey
+Prompt (Semantic Filtering): "Create a script outline for a comic book about a young 
+hero discovering their powers, focusing on key plot points and character growth. Filter 
+out extraneous side plots to keep narrative tight and character-centric."
+Comic Book Script Outline: The Awakening
+- Introduction: Jake, a teenager, experiences strange visions hinting at 
+hidden powers.
+- Discovery: After an unexpected incident, Jake realizes he can manipulate 
+energy.
+- Conflict: Jake struggles to control his powers, facing doubts and fears.
+- Mentor: An experienced hero guides Jake to harness abilities for good.
+- Climax: Jake confronts a villain threatening the city using similar powers.
+- Resolution: Embracing his role, Jake commits to protecting his community.
+Analysis: Semantic filtering focused the script on pivotal moments of growth and plot 
+progression, minimizing distractions and ensuring narrative coherence suitable for 
+comic storytelling.
+Content Type Prompt Technique Key Strength
+Resulting Tone & 
+Structure
+Report 
+Excerpt
+Query Decomposition Detailed, structured 
+exploration
+Formal, sectioned, 
+comprehensive
+Article Snippet Decision-Making Balanced, 
+reasoned analysis
+Informative, 
+comparative, 
+persuasive
+Case Study 
+Summary
+Query Decomposition + 
+Semantic Filtering
+Focused, coherent 
+synthesis
+Concise, targeted, 
+clarity-focused
+Comic Book 
+Script Outline
+Semantic Filtering Narrative focus and 
+thematic cohesion
+Engaging, character￾centric, streamlined
+Analysis of Results and Impact on Content 
+Quality
+The comparative analysis of AI-generated content using different prompt patterns 
+reveals distinct impacts on the quality, coherence, and structure of the outputs. Each 
+technique—query decomposition, decision-making, and semantic filtering—contributes 
+uniquely to enhancing various content dimensions, as evidenced by the examples and 
+synthesized metrics below.
+Impact of Prompt Patterns on Content Quality Metrics
+Prompt 
+Technique Coherence Relevance Creativity Readability
+Query 
+Decomposition
+High – Clear 
+segment￾wise focus 
+facilitates 
+logical flow
+High – Ensures 
+comprehensive 
+coverage of all 
+query facets
+Moderate –
+Structured 
+approach may 
+limit 
+spontaneous 
+narrative turns
+High – Well￾organized text 
+makes the 
+content easy to 
+follow
+Decision￾Making
+Moderate to 
+High –
+Reasoning 
+steps 
+enhance 
+logical 
+consistency
+High – Focused 
+evaluation of 
+alternatives 
+maintains topical 
+relevance
+Moderate –
+Balanced 
+analysis may 
+constrain 
+exploration of 
+novel ideas
+High – Clear 
+argumentation 
+aids reader 
+comprehension
+Semantic 
+Filtering
+High –
+Strong 
+thematic 
+cohesion 
+reduces 
+tangential 
+content
+High – Filters out 
+irrelevant 
+information, 
+boosting 
+relevance
+High –
+Enables 
+creative focus 
+by eliminating 
+distractions
+Moderate to High 
+– Focused 
+narrative 
+enhances flow 
+but may reduce 
+breadth
+From the results, query decomposition stands out for improving coherence by 
+breaking complex queries into manageable parts, which translates to deeper and more 
+detailed coverage without overwhelming the reader. This is particularly effective for 
+structured reports and case studies, where comprehensive information delivery is 
+critical.
+The decision-making pattern significantly guides the AI's output structure by 
+encouraging weighted considerations and balanced viewpoints, which enhance the 
+logical flow and critical depth of articles or analyses. This method boosts relevance
+through context-aware factor evaluation but can moderate creative breadth due to its 
+analytic nature.
+Semantic filtering excels in enhancing relevance and thematic consistency by 
+excluding extraneous data, allowing the AI to focus sharply on core topics. It also 
+supports creativity by narrowing the narrative scope to essential elements, which is 
+advantageous for storytelling and creative content like comic scripts. However, overly 
+strict filtering might slightly reduce the richness of exploratory details.
+Summary of Key Findings
+• Structured Prompting Enhances Quality: Using query decomposition 
+improves completeness and logical segmentation, leading to superior content 
+clarity and depth.
+• Guided Reasoning Strengthens Logical Flow: Decision-making prompts foster 
+critical analysis and balanced conclusions, increasing trustworthiness and reader 
+engagement.
+• Focused Relevance Boosts Thematic Unity: Semantic filtering reduces noise 
+and promotes relevance, which is essential for coherent narratives and 
+maintaining audience focus.
+• Combining Techniques Yields Optimal Results: Integrating query 
+decomposition with semantic filtering provides a powerful balance between depth 
+and focus, suitable for concise yet comprehensive case studies.
+• Prompt Design Directly Shapes Readability: Clear, purposeful prompt 
+structures translate into outputs that are easier to read, navigate, and 
+understand, enhancing overall user experience.
+Conclusion and Best Practices for Using Prompt 
+Patterns in Content Creation
+Effective use of prompt patterns—query decomposition, decision-making, and semantic 
+filtering—significantly enhances AI-generated content by improving clarity, coherence, 
+and depth. Practitioners should select and combine techniques based on content goals;
+for example, use query decomposition for detailed reports, decision-making for 
+balanced articles, and semantic filtering for focused narratives. Iterative experimentation 
+and prompt refinement are crucial to optimize outcomes and adapt to evolving project
+needs. Embracing these strategies empowers content creators to produce structured, 
+relevant, and engaging text efficiently. Future research in prompt engineering promises 
+further advancements in AI content quality and versatility.
+Appendix: Additional Examples and Reference 
+Materials
+Extended Prompt Examples
+• Multi-Step Query Decomposition: "Generate a comprehensive article on the 
+impacts of telemedicine. First, explain the technological advancements enabling 
+telemedicine, then discuss patient access and regulatory challenges, and finally 
+analyze economic benefits and future outlook."
+• Advanced Decision-Making Prompt: "Evaluate three renewable energy 
+sources—solar, wind, and hydropower—considering criteria such as 
+environmental impact, cost-effectiveness, scalability, and social acceptance. 
+Provide a ranked recommendation for urban implementation."
+• Refined Semantic Filtering Prompt: "Write a case study summary on corporate 
+digital transformation focusing only on leadership strategies and employee 
+engagement, filtering out technical infrastructure details to maintain a human￾centric perspective."
+Additional Generated Content Samples
+Sample: Multi-Step Query Decomposition Output Excerpt
+Telemedicine: Transforming Healthcare Accessibility
+1. Technological Advancements
+Telemedicine relies on high-speed internet, secure video conferencing 
+platforms, and IoT-based health monitors. Recent innovations include AI￾driven diagnostics and mobile health applications expanding reach.
+2. Patient Access and Regulatory Challenges
+Despite benefits, telemedicine faces hurdles such as digital divides, 
+licensing restrictions across jurisdictions, and data privacy laws impacting 
+adoption rates.
+3. Economic Benefits and Future Outlook
+Telemedicine can reduce healthcare costs by minimizing hospital visits and 
+enabling early interventions. Future trends point toward AI integration and 
+personalized remote care pathways.
+Sample: Advanced Decision-Making Output Excerpt
+Ranking Renewable Energy Sources for Urban Use
+1. Solar Energy offers modular deployment with decreasing costs and low 
+environmental footprint, but urban space limitations can constrain capacity.
+2. Wind Energy, while cost-effective and clean, faces challenges related to 
+noise, aesthetics, and inconsistent availability in city environments.
+3. Hydropower provides reliable output but is generally less feasible for 
+dense urban areas due to infrastructural and ecological constraints.
+Recommendation: Solar energy ranks highest for urban settings due to 
+adaptability and minimal disruption, followed by wind where conditions 
+permit.
+Expanded Study Tables
+Prompt Technique 
+Combination
+Applicable 
+Content Types Primary Strengths Considerations
+Query 
+Decomposition + 
+Decision-Making
+Research 
+Articles, 
+Business 
+Reports
+Balances detailed 
+exploration with critical 
+analysis, enhancing 
+logical depth and 
+scope
+May increase 
+complexity and 
+require iterative 
+prompt tuning
+Decision-Making + Editorials, Enhances argument Risk of narrowing 
+Prompt Technique 
+Combination
+Applicable 
+Content Types Primary Strengths Considerations
+Semantic Filtering Persuasive 
+Content, Case 
+Studies
+clarity while 
+maintaining relevance 
+and thematic focus
+viewpoint if filtering is 
+too restrictive
+Query 
+Decomposition + 
+Semantic Filtering
+Summaries, 
+Executive Briefs, 
+Creative Scripts
+Enables thorough yet 
+concise presentations 
+with focused content 
+flow
+Trade-off between 
+completeness and 
+conciseness must be 
+managed
+Reference Diagrams
+Glossary of Key Terms
+• Prompt Patterns: Structured methods of formulating input instructions for AI 
+models to guide content generation.
+• Query Decomposition: Breaking down complex queries into simpler parts for 
+easier and more detailed AI processing.
+• Decision-Making: Guiding AI to weigh alternatives and make balanced 
+conclusions.
+• Semantic Filtering: Prioritizing semantically relevant content while excluding 
+unrelated information.
+• AI Content Generation: The process of producing written or multimedia outputs 
+via artificial intelligence models.
+• Iterative Prompt Refinement: A cyclical process of modifying prompts based on 
+AI output evaluation to improve quality.
